@@ -2,5 +2,5 @@ Main(){
 	print "hello world"
 }
 method(){
-	print "my name is 小肥牛"
+	print "my name is 小肥牛111"
 }
